@@ -69,6 +69,7 @@ A collection of awesome things regarding the fp-ts ecosystem.
 
 #### io-ts Tools
 * [github io-ts-types](https://github.com/gcanti/io-ts-types) - A collection of runtime types and combinators
+* [io-ts-reporters](https://github.com/gillchristian/io-ts-reporters) - transform  `t.Error` into nice `string` 
 
 ### Videos
 - [fp 101](https://www.youtube.com/watch?v=ci_rKKvvkJo&list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV) functional programming courses based on fp-ts 
