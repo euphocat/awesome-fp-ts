@@ -55,7 +55,8 @@ A collection of awesome things regarding the fp-ts ecosystem.
 - [Option: fp-ts](https://dev.to/waynevanson/fp-ts-meets-if-else-and-switch-part-1-3-2lpf)
 - [Either: fp-ts](https://dev.to/waynevanson/either-fp-ts-meets-if-else-and-switch-part-2-3-893)
 - [fp-ts, sequenceT, and sweet sweet async typed FP](https://dev.to/gnomff_65/fp-ts-sequencet-and-sweet-sweet-async-typed-fp-5aop)
-- [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/) - a great article about ReaderTaskEither that deeply explain the Reader + Task + Either concept with real world and human-friendly example in React
+- [TypeScript + fp-ts: ReaderTaskEither Foundations](https://andywhite.xyz/posts/2021-01-27-rte-foundations/) - great article about ReaderTaskEither that deeply explains the Reader + Task + Either concepts
+- [TypeScript + fp-ts: ReaderTaskEither and React](https://andywhite.xyz/posts/2021-01-28-rte-react/) - a continuation of the explaination about ReaderTaskEither concept with real world and human-friendly example in React
 
 ### Videos
 - [fp 101](https://www.youtube.com/watch?v=ci_rKKvvkJo&list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV) functional programming courses based on fp-ts 
