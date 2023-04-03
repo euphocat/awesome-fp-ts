@@ -76,3 +76,4 @@ A collection of awesome things regarding the fp-ts ecosystem.
 
 ### Videos
 - [fp 101](https://www.youtube.com/watch?v=ci_rKKvvkJo&list=PLEwNZN34BR6IX2zE3h-c4iYCLvR-UkoNV) functional programming courses based on fp-ts 
+- [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
